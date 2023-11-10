@@ -10,7 +10,7 @@
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer!👀.\
-  🌱 I’m currently learning Nest <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />.\
+  🌱 I’m currently learning Nest  <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
   📫 &nbsp;Ping me : alirehman19k1279@gmail.com.\
   ⚡ &nbsp;Fun fact: I love to learn/explore new technologies.
