@@ -6,7 +6,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Ali, Full Stack Developer from <img src="https://t3.ftcdn.net/jpg/02/10/98/74/360_F_210987459_rjsxthnFJ62DF2lWoFYcyIjNiUGDu9db.jpg" width="14px"/> <b>Karachi, Pakistan </b>.</p>
+  I'm Ali, Software Engineer from <img src="https://t3.ftcdn.net/jpg/02/10/98/74/360_F_210987459_rjsxthnFJ62DF2lWoFYcyIjNiUGDu9db.jpg" width="14px"/> <b>Karachi, Pakistan </b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer!👀.\
