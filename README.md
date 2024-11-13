@@ -38,10 +38,6 @@ As a versatile backend engineer, I'm deeply involved in a wide range of projects
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-## Language Usage Overview
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=default)
-
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirehman1279)
