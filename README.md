@@ -40,7 +40,7 @@ As a versatile backend engineer, I'm deeply involved in a wide range of projects
 
 ## Language Usage Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=default)
 
 
 ### 📫 Let's Connect!
