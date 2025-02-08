@@ -1,7 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 ## I'm Ali - Backend Engineer & AI Enthusiast 🚀
-> Software Engineer from Karachi, Pakistan 🇵🇰 passionate about building intelligent applications
+> Software Engineer from Karachi, Pakistan 🇵🇰 passionate about building scalable and high performance applications
 
 ### 🎯 Current Focus
 As a versatile backend engineer, I'm deeply involved in a wide range of projects, including:
