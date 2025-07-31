@@ -10,7 +10,7 @@ As a versatile backend engineer, I'm deeply involved in a wide range of projects
 - Integrating cutting-edge AI and machine learning capabilities
 - Optimizing system performance and infrastructure
 
-### 💻 Tech Arsenal
+### 💻 Tech
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
